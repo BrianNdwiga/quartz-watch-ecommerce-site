@@ -1,8 +1,18 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   align-items: center;
-  padding: 6rem;
   min-height: 100vh;
+}
+.landing {
+  padding-left: 24px;
+  padding-right: 24px;
+  background-color: aqua;
+}
+@media only screen and (min-width: 600px) {
+  .landing {
+    padding-left: 24px;
+    padding-right: 24px;
+    background-color: aqua;
+  }
 }
