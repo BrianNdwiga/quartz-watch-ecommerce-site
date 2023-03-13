@@ -1,6 +1,5 @@
 import * as React from "react";
 import AppBar from "@mui/material/AppBar";
-import { styled, alpha } from "@mui/material/styles";
 import Box from "@mui/material/Box";
 import Toolbar from "@mui/material/Toolbar";
 import IconButton from "@mui/material/IconButton";
@@ -11,12 +10,14 @@ import Container from "@mui/material/Container";
 import Avatar from "@mui/material/Avatar";
 import Button from "@mui/material/Button";
 import Tooltip from "@mui/material/Tooltip";
-import InputBase from "@mui/material/InputBase";
 import MenuItem from "@mui/material/MenuItem";
 import DiamondOutlinedIcon from "@mui/icons-material/DiamondOutlined";
 import ShoppingCartOutlinedIcon from "@mui/icons-material/ShoppingCartOutlined";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import PersonIcon from "@mui/icons-material/Person2";
+import Autocomplete from "@mui/material/Autocomplete";
+import TextField from "@mui/material/TextField";
+import Stack from "@mui/material/Stack";
 
 const pages = ["Shop", "Contact", "About"];
 
@@ -37,51 +38,7 @@ const theme = createTheme({
   },
 });
 
-import SearchIcon from "@mui/icons-material/Search";
-
-const Search = styled("div")(({ theme }) => ({
-  position: "relative",
-  borderRadius: theme.shape.borderRadius,
-  backgroundColor: alpha(theme.palette.common.white, 0.15),
-  "&:hover": {
-    backgroundColor: alpha(theme.palette.common.white, 0.25),
-  },
-  marginLeft: 0,
-  width: "100%",
-  [theme.breakpoints.up("sm")]: {
-    marginLeft: theme.spacing(1),
-    width: "auto",
-  },
-}));
-
-const SearchIconWrapper = styled("div")(({ theme }) => ({
-  padding: theme.spacing(0, 2),
-  height: "100%",
-  position: "absolute",
-  pointerEvents: "none",
-  display: "flex",
-  alignItems: "center",
-  justifyContent: "center",
-}));
-
-const StyledInputBase = styled(InputBase)(({ theme }) => ({
-  color: "inherit",
-  "& .MuiInputBase-input": {
-    padding: theme.spacing(1, 1, 1, 0),
-    // vertical padding + font size from searchIcon
-    paddingLeft: `calc(1em + ${theme.spacing(4)})`,
-    transition: theme.transitions.create("width"),
-    width: "100%",
-    [theme.breakpoints.up("sm")]: {
-      width: "12ch",
-      "&:focus": {
-        width: "20ch",
-      },
-    },
-  },
-}));
-
-function Navbar() {
+function Navbar({ products }) {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
 
   const handleOpenNavMenu = (event) => {
@@ -91,7 +48,6 @@ function Navbar() {
   const handleCloseNavMenu = () => {
     setAnchorElNav(null);
   };
-
   return (
     <ThemeProvider theme={theme}>
       <AppBar position="static" color="primary" sx={{ boxShadow: "none" }}>
@@ -250,7 +206,6 @@ function Navbar() {
                   display: { xs: "none", md: "flex" },
                   alignItems: "center",
                   width: 200,
-                  backgroundColor: "#ffffff",
                   boxShadow: "none",
                   borderRadius: "12px",
                   padding: 0.5,
@@ -258,15 +213,24 @@ function Navbar() {
                   marginRight: 2,
                 }}
               >
-                <Search>
-                  <SearchIconWrapper>
-                    <SearchIcon />
-                  </SearchIconWrapper>
-                  <StyledInputBase
-                    placeholder="Search…"
-                    inputProps={{ "aria-label": "search" }}
+                <Stack spacing={2} sx={{ width: 300, borderRadius: "12px" }}>
+                  <Autocomplete
+                    freeSolo
+                    id="free-solo-2-demo"
+                    disableClearable
+                    options={products.map((option) => option.name)}
+                    renderInput={(params) => (
+                      <TextField
+                        {...params}
+                        label="Search input"
+                        InputProps={{
+                          ...params.InputProps,
+                          type: "search",
+                        }}
+                      />
+                    )}
                   />
-                </Search>
+                </Stack>
               </Box>
               <Button
                 onClick={handleCloseNavMenu}

@@ -22,7 +22,6 @@ const Landing = () => {
       <Typography
         variant="subtitle1"
         gutterBottom
-        bold
         color="#000000"
         sx={{
           fontSize: { xl: "70px", lg: "60px", md: "50px", xs: "30px" },
@@ -38,7 +37,6 @@ const Landing = () => {
           <Typography
             variant="subtitle1"
             gutterBottom
-            bold
             color="#000000"
             columns={3}
             sx={{

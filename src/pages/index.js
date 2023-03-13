@@ -1,12 +1,10 @@
 import Head from "next/head";
-import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 import Landing from "@/components/Landing";
 import Products from "@/components/Products";
+import Navbar from "@/components/Navbar";
 
-const inter = Inter({ subsets: ["latin"] });
-
-export default function Home() {
+export default function Home({ products }) {
   return (
     <>
       <Head>
@@ -16,9 +14,35 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
+        <Navbar className="NavBar" products={products} />
         <Landing />
-        <Products />
+        <Products products={products} />
       </main>
     </>
   );
+}
+
+export async function getStaticProps() {
+  try {
+    // Get the filter value from the context
+    // const filterValue = context.params?.filter ?? "";
+    const res = await fetch("http://localhost:8000/products/");
+    const products = await res.json();
+    // const products = data.filter((item) => item.groupId == "kids");
+    // console.log(filterValue);
+    // console.log(data);
+    return {
+      props: {
+        products,
+      },
+    };
+  } catch (error) {
+    console.error(error);
+    return {
+      props: {
+        products,
+      },
+      revalidate: 60,
+    };
+  }
 }
