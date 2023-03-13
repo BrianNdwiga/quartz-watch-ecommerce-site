@@ -1,6 +1,5 @@
 import * as React from "react";
 import AppBar from "@mui/material/AppBar";
-import { styled, alpha } from "@mui/material/styles";
 import Box from "@mui/material/Box";
 import Toolbar from "@mui/material/Toolbar";
 import IconButton from "@mui/material/IconButton";
@@ -11,12 +10,15 @@ import Container from "@mui/material/Container";
 import Avatar from "@mui/material/Avatar";
 import Button from "@mui/material/Button";
 import Tooltip from "@mui/material/Tooltip";
-import InputBase from "@mui/material/InputBase";
 import MenuItem from "@mui/material/MenuItem";
 import DiamondOutlinedIcon from "@mui/icons-material/DiamondOutlined";
 import ShoppingCartOutlinedIcon from "@mui/icons-material/ShoppingCartOutlined";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import PersonIcon from "@mui/icons-material/Person2";
+import Autocomplete from "@mui/material/Autocomplete";
+import TextField from "@mui/material/TextField";
+import Stack from "@mui/material/Stack";
+import Link from "next/link";
 
 const pages = ["Shop", "Contact", "About"];
 
@@ -37,51 +39,7 @@ const theme = createTheme({
   },
 });
 
-import SearchIcon from "@mui/icons-material/Search";
-
-const Search = styled("div")(({ theme }) => ({
-  position: "relative",
-  borderRadius: theme.shape.borderRadius,
-  backgroundColor: alpha(theme.palette.common.white, 0.15),
-  "&:hover": {
-    backgroundColor: alpha(theme.palette.common.white, 0.25),
-  },
-  marginLeft: 0,
-  width: "100%",
-  [theme.breakpoints.up("sm")]: {
-    marginLeft: theme.spacing(1),
-    width: "auto",
-  },
-}));
-
-const SearchIconWrapper = styled("div")(({ theme }) => ({
-  padding: theme.spacing(0, 2),
-  height: "100%",
-  position: "absolute",
-  pointerEvents: "none",
-  display: "flex",
-  alignItems: "center",
-  justifyContent: "center",
-}));
-
-const StyledInputBase = styled(InputBase)(({ theme }) => ({
-  color: "inherit",
-  "& .MuiInputBase-input": {
-    padding: theme.spacing(1, 1, 1, 0),
-    // vertical padding + font size from searchIcon
-    paddingLeft: `calc(1em + ${theme.spacing(4)})`,
-    transition: theme.transitions.create("width"),
-    width: "100%",
-    [theme.breakpoints.up("sm")]: {
-      width: "12ch",
-      "&:focus": {
-        width: "20ch",
-      },
-    },
-  },
-}));
-
-function Navbar() {
+function Navbar({ products }) {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
 
   const handleOpenNavMenu = (event) => {
@@ -91,7 +49,6 @@ function Navbar() {
   const handleCloseNavMenu = () => {
     setAnchorElNav(null);
   };
-
   return (
     <ThemeProvider theme={theme}>
       <AppBar position="static" color="primary" sx={{ boxShadow: "none" }}>
@@ -107,6 +64,8 @@ function Navbar() {
                 borderRadius: 4,
                 justifyContent: "center",
                 padding: 1,
+                height: "60px",
+                color: "black",
               }}
             >
               <DiamondOutlinedIcon
@@ -212,27 +171,30 @@ function Navbar() {
             </Box>
             <Box sx={{ flexGrow: 0.3, display: { xs: "none", md: "flex" } }}>
               {pages.map((page) => (
-                <Button
-                  key={page}
-                  onClick={handleCloseNavMenu}
-                  sx={{
-                    my: 2,
-                    color: "black",
-                    display: "block",
-                    alignItems: "center",
-                    width: { md: 80, lg: 160 },
-                    backgroundColor: "#ffffff",
-                    boxShadow: "none",
-                    borderRadius: 4,
-                    fontWeight: 500,
-                    letterSpacing: ".1rem",
-                    padding: 1.5,
-                    marginLeft: { md: 0.5, lg: 1 },
-                    marginRight: { md: 0.5, lg: 1 },
-                  }}
-                >
-                  {page}
-                </Button>
+                <Link href={`/${page}`} key={page}>
+                  <Button
+                    key={page}
+                    onClick={handleCloseNavMenu}
+                    sx={{
+                      my: 2,
+                      color: "black",
+                      display: "block",
+                      alignItems: "center",
+                      width: { md: 80, lg: 160 },
+                      backgroundColor: "#ffffff",
+                      boxShadow: "none",
+                      borderRadius: 4,
+                      fontWeight: 500,
+                      letterSpacing: ".1rem",
+                      padding: 1.5,
+                      height: "60px",
+                      marginLeft: { md: 0.5, lg: 1 },
+                      marginRight: { md: 0.5, lg: 1 },
+                    }}
+                  >
+                    {page}
+                  </Button>
+                </Link>
               ))}
             </Box>
 
@@ -250,7 +212,6 @@ function Navbar() {
                   display: { xs: "none", md: "flex" },
                   alignItems: "center",
                   width: 200,
-                  backgroundColor: "#ffffff",
                   boxShadow: "none",
                   borderRadius: "12px",
                   padding: 0.5,
@@ -258,15 +219,24 @@ function Navbar() {
                   marginRight: 2,
                 }}
               >
-                <Search>
-                  <SearchIconWrapper>
-                    <SearchIcon />
-                  </SearchIconWrapper>
-                  <StyledInputBase
-                    placeholder="Search…"
-                    inputProps={{ "aria-label": "search" }}
+                <Stack spacing={2} sx={{ width: 250, color: "black" }}>
+                  <Autocomplete
+                    id="filter-demo"
+                    disableClearable
+                    options={products.map((option) => option.name)}
+                    sx={{ borderRadius: "12px" }}
+                    renderInput={(params) => (
+                      <TextField
+                        {...params}
+                        label="Search input"
+                        InputProps={{
+                          ...params.InputProps,
+                          type: "search",
+                        }}
+                      />
+                    )}
                   />
-                </Search>
+                </Stack>
               </Box>
               <Button
                 onClick={handleCloseNavMenu}
@@ -274,7 +244,7 @@ function Navbar() {
                 sx={{
                   alignItems: "center",
                   justifyContent: "center",
-                  width: { md: 150, lg: 200 },
+                  width: { md: 130, lg: 180 },
                   borderRadius: "12px",
                   fontWeight: { md: 200, lg: 500 },
                   padding: 1.5,
@@ -282,6 +252,7 @@ function Navbar() {
                   display: "flex",
                   backgroundColor: "#2B662D",
                   color: "white",
+                  height: "60px",
                 }}
               >
                 <ShoppingCartOutlinedIcon
@@ -297,6 +268,9 @@ function Navbar() {
                       sx={{
                         backgroundColor: "#2B662D",
                         padding: "23px",
+                        height: "60px",
+                        width: "60px",
+                        borderRadius: "12px",
                       }}
                     >
                       <PersonIcon />

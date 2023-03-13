@@ -16,13 +16,11 @@ const Landing = () => {
         marginRight: { xs: "55px", md: "24px" },
         backgroundImage: `url('https://i.pinimg.com/originals/0e/15/a4/0e15a43ef09214d666e98c384f8b07df.png')`,
         backgroundSize: "cover",
-        marginTop: { xs: 3 },
       }}
     >
       <Typography
         variant="subtitle1"
         gutterBottom
-        bold
         color="#000000"
         sx={{
           fontSize: { xl: "70px", lg: "60px", md: "50px", xs: "30px" },
@@ -38,7 +36,6 @@ const Landing = () => {
           <Typography
             variant="subtitle1"
             gutterBottom
-            bold
             color="#000000"
             columns={3}
             sx={{
