@@ -23,15 +23,13 @@ export default function Home({ products }) {
 }
 
 export async function getStaticProps() {
-  
-    // Get the filter value from the context
-    // const filterValue = context.params?.filter ?? "";
-    const res = await fetch("http://localhost:8000/products/");
-    const products = await res.json();
-
-    return {
-      props: {
-        products,
-      },
-    };
+  // Get the filter value from the context
+  // const filterValue = context.params?.filter ?? "";
+  const res = await fetch("http://localhost:8000/products/");
+  const products = await res.json();
+  return {
+    props: {
+      products,
+    },
+  };
 }
