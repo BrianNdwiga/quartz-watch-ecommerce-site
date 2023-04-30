@@ -1,10 +1,10 @@
 import Head from "next/head";
-import styles from "@/styles/Home.module.css";
-import Landing from "@/components/Landing";
-import Products from "@/components/Products";
+import Catalogue from "@/components/Catalogue";
 import Navbar from "@/components/Navbar";
+import Cart_Card from "@/components/CartCard";
+import styles from "@/styles/Home.module.css";
 
-export default function Home({ products }) {
+export default function Cart({ products }) {
   return (
     <>
       <Head>
@@ -15,8 +15,7 @@ export default function Home({ products }) {
       </Head>
       <main className={styles.main}>
         <Navbar className="NavBar" products={products} />
-        <Landing />
-        <Products products={products} />
+        <Cart_Card products={products} />
       </main>
     </>
   );
@@ -25,8 +24,9 @@ export default function Home({ products }) {
 export async function getStaticProps() {
   // Get the filter value from the context
   // const filterValue = context.params?.filter ?? "";
-  const res = await fetch("http://localhost:8000/products/");
+  const res = await fetch("http://localhost:7000/cart/");
   const products = await res.json();
+
   return {
     props: {
       products,

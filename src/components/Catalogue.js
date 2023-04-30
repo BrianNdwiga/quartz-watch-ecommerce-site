@@ -55,9 +55,9 @@ function Products({ products }) {
           <Grid
             item
             xs={10}
-            style={{ borderRight: "1px solid", paddingBottom: "10px" }}
+            style={{ borderRight: "1px solid", display:"flex",alignItems:"center",padding:"10px",fontSize:"17px" }}
           >
-            <FilterAltIcon /> Filters (1)
+            <div style={{display:"flex"}}><FilterAltIcon /></div> <div>Filters (1)</div>
           </Grid>
           <Grid
             item
@@ -66,6 +66,9 @@ function Products({ products }) {
               paddingLeft: "0px",
               display: "grid",
               justifyContent: "center",
+              alignItems:"center",
+              padding:"10px",
+              cursor:"pointer"
             }}
           >
             X

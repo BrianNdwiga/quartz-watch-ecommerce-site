@@ -238,6 +238,8 @@ function Navbar({ products }) {
                   />
                 </Stack>
               </Box>
+              
+                <Link href={"/Cart"}>
               <Button
                 onClick={handleCloseNavMenu}
                 className="cart"
@@ -260,6 +262,7 @@ function Navbar({ products }) {
                 />
                 View Cart
               </Button>
+              </Link>
               <Box sx={{ flexGrow: 0 }}>
                 <Tooltip title="Personal Account">
                   <IconButton sx={{ p: 0 }}>

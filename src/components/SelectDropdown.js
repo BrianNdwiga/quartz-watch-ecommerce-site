@@ -52,12 +52,12 @@ const SelectDropdown = ({ label, options }) => {
       <ul className={styles.list_items}>
         {options.map((option, index) => (
           <li className={styles.item} id="item" key={index} ref={buttonRef}>
-            <div style={{ width: "45px" }}>
+            <div style={{ width: "45px",paddingRight:"10px" }}>
               <span className={styles.item_text} id={option}>
                 {option}
               </span>
             </div>
-            <CheckIcon style={{ marginLeft: "70%" }} />
+              <CheckIcon style={{ marginLeft: "70%" }} />
           </li>
         ))}
       </ul>
