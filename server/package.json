@@ -1,0 +1,29 @@
+{
+  "name": "quartz-ecommerce",
+  "version": "1.0.0",
+  "description": "Watch E-commerce",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index"
+  },
+  "dependencies": {
+    "@apollo/datasource-rest": "^5.0.2",
+    "@apollo/server": "^4.5.0",
+    "apollo-server-koa": "^3.12.0",
+    "graphql": "^16.6.0",
+    "graphql-tag": "^2.12.6",
+    "koa": "^2.14.2"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "8.25.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-config-prettier": "^8.0.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "4.2.1",
+    "nodemon": "^2.0.4"
+  },
+  "author": "Raphael Terrier @R4ph-t",
+  "license": "MIT",
+  "private": true
+}

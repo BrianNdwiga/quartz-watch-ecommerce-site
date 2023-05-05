@@ -1,0 +1,1224 @@
+{
+  "products": [
+    {
+      "id": 11749003,
+      "name": "Lacoste Leather4 Watch",
+      "price": {
+        "current": {
+          "value": 24,
+          "text": "Kshs 224.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Multi",
+      "colourWayId": 16432607,
+      "brandName": "New Look",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "male",
+      "productCode": 1433697,
+      "productType": "Product",
+      "url": "new-look/new-look-color-block-plimsolls/prd/11749003?clr=multi&colourWayId=16432607",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 11749058,
+      "name": "Lacoste Leather23 Watch",
+      "price": {
+        "current": {
+          "value": 45,
+          "text": "Kshs 245.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Navy",
+      "colourWayId": 16421336,
+      "brandName": "New Look",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "male",
+      "productCode": 1433701,
+      "productType": "Product",
+      "url": "new-look/new-look-tassel-loafer-in-navy/prd/11749058?clr=navy&colourWayId=16421336",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12267779,
+      "name": "Lacoste Leather W-atch",
+      "price": {
+        "current": {
+          "value": 70,
+          "text": "Kshs 270.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Off white",
+      "colourWayId": 16421317,
+      "brandName": "adidas Originals",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "male",
+      "productCode": 1472934,
+      "productType": "Product",
+      "url": "adidas-originals/adidas-original-continental-80-vulc-sneakers-in-off-white-leather/prd/12267779?clr=off-white&colourWayId=16421317",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12566974,
+      "name": "Lac-oste Leather Watch",
+      "price": {
+        "current": {
+          "value": 100,
+          "text": "Kshs 2100.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "White",
+      "colourWayId": 16439250,
+      "brandName": "Nike",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "male",
+      "productCode": 1496304,
+      "productType": "Product",
+      "url": "nike/nike-p6000-sneakers-in-triple-white/prd/12566974?clr=white&colourWayId=16439250",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12717957,
+      "name": "Lacoste D-Leather Watch",
+      "price": {
+        "current": {
+          "value": 109,
+          "text": "Kshs 2109.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Red",
+      "colourWayId": 16424846,
+      "brandName": "House of Hounds",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "male",
+      "productCode": 1508281,
+      "productType": "Product",
+      "url": "house-of-hounds/house-of-hounds-bowie-loafers-in-burgundy-hi-shine-leather/prd/12717957?clr=red&colourWayId=16424846",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12860966,
+      "name": "Lacoste M-Leather Watch",
+      "price": {
+        "current": {
+          "value": 130,
+          "text": "Kshs 2130.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Green",
+      "colourWayId": 16444706,
+      "brandName": "Nike Training",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "male",
+      "productCode": 1519634,
+      "productType": "Product",
+      "url": "nike-training/nike-training-metcon-5-sneakers-in-green/prd/12860966?clr=green&colourWayId=16444706",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12860970,
+      "name": "La-Leather Watch",
+      "price": {
+        "current": {
+          "value": 130,
+          "text": "Kshs 2130.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 16444671,
+      "brandName": "Nike Training",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "male",
+      "productCode": 1519631,
+      "productType": "Product",
+      "url": "nike-training/nike-training-metcon-5-sneakers-in-black/prd/12860970?clr=black&colourWayId=16444671",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12923508,
+      "name": "Lacoste-Leather Watch",
+      "price": {
+        "current": {
+          "value": 79,
+          "text": "Kshs 279.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Gray",
+      "colourWayId": 16428774,
+      "brandName": "River Island",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "male",
+      "productCode": 1524283,
+      "productType": "Product",
+      "url": "river-island/river-island-suede-desert-boots-in-dark-gray/prd/12923508?clr=gray&colourWayId=16428774",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 11675109,
+      "name": "Lacoste Leather-Watch",
+      "price": {
+        "current": {
+          "value": 110,
+          "text": "Kshs 2110.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Multi",
+      "colourWayId": 16319786,
+      "brandName": "adidas Originals",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "male",
+      "productCode": 1428219,
+      "productType": "Product",
+      "url": "adidas-originals/adidas-originals-ozweego-sneakers-in-multi-pride/prd/11675109?clr=multi&colourWayId=16319786",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 11933621,
+      "name": "Lacoste Leather",
+      "price": {
+        "current": {
+          "value": 51,
+          "text": "Kshs 251.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Tan",
+      "colourWayId": 16412386,
+      "brandName": "ASOS DESIGN",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "female",
+      "productCode": 1448475,
+      "productType": "Product",
+      "url": "asos-design/asos-design-wide-fit-oxford-shoes-in-tan-leather-with-toe-cap/prd/11933621?clr=tan&colourWayId=16412386",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12550731,
+      "name": "Lacoste Leather M-Watch",
+      "price": {
+        "current": {
+          "value": 45,
+          "text": "Kshs 245.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 16415025,
+      "brandName": "ASOS DESIGN",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "female",
+      "productCode": 1495078,
+      "productType": "Product",
+      "url": "asos-design/asos-design-stacked-heel-western-chelsea-boots-in-black-faux-leather/prd/12550731?clr=black&colourWayId=16415025",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12686082,
+      "name": "z-Lacoste Leather Watch",
+      "price": {
+        "current": {
+          "value": 47,
+          "text": "Kshs 247.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Red",
+      "colourWayId": 16424439,
+      "brandName": "Lacoste",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "female",
+      "productCode": 1505685,
+      "productType": "Product",
+      "url": "lacoste/lacoste-croco-slides-with-large-logo-in-red/prd/12686082?clr=red&colourWayId=16424439",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12686098,
+      "name": "D-Lacoste Leather Watch",
+      "price": {
+        "current": {
+          "value": 101,
+          "text": "Kshs 2101.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "White",
+      "colourWayId": 16424417,
+      "brandName": "Lacoste",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "female",
+      "productCode": 1505710,
+      "productType": "Product",
+      "url": "lacoste/lacoste-challenge-sneakers-in-triple-white-leather/prd/12686098?clr=white&colourWayId=16424417",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12686749,
+      "name": "K-Lacoste Leather Watch",
+      "price": {
+        "current": {
+          "value": 115,
+          "text": "Kshs 2115.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "White",
+      "colourWayId": 16427046,
+      "brandName": "Lacoste",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "female",
+      "productCode": 1505732,
+      "productType": "Product",
+      "url": "lacoste/lacoste-menerva-sport-sneakers-in-white/prd/12686749?clr=white&colourWayId=16427046",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 11522869,
+      "name": "M-Lacoste Leather Watch",
+      "price": {
+        "current": {
+          "value": 72,
+          "text": "Kshs 272.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Stone",
+      "colourWayId": 16415038,
+      "brandName": "ASOS DESIGN",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "female",
+      "productCode": 1416321,
+      "productType": "Product",
+      "url": "asos-design/asos-design-brogue-boots-in-stone-suede-with-natural-sole/prd/11522869?clr=stone&colourWayId=16415038",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 11586785,
+      "name": "Wa-Leather Watch",
+      "price": {
+        "current": {
+          "value": 87,
+          "text": "Kshs 287.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 16419692,
+      "brandName": "ASOS DESIGN",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "female",
+      "productCode": 1421120,
+      "productType": "Product",
+      "url": "asos-design/asos-design-wide-fit-stacked-heel-western-chelsea-boots-in-black-leather-with-studding-and-hardware-detail/prd/11586785?clr=black&colourWayId=16419692",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 11949726,
+      "name": "Leather Watch",
+      "price": {
+        "current": {
+          "value": 45,
+          "text": "Kshs 245.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 16411499,
+      "brandName": "ASOS DESIGN",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "female",
+      "productCode": 1449743,
+      "productType": "Product",
+      "url": "asos-design/asos-design-sandals-in-black-with-chunky-sole-and-studs/prd/11949726?clr=black&colourWayId=16411499",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 11949734,
+      "name": "Lacoste Leather Watches",
+      "price": {
+        "current": {
+          "value": 19,
+          "text": "Kshs 219.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 16444229,
+      "brandName": "ASOS DESIGN",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "female",
+      "productCode": 1449741,
+      "productType": "Product",
+      "url": "asos-design/asos-design-sliders-in-black-with-tape-slingback/prd/11949734?clr=black&colourWayId=16444229",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12010338,
+      "name": "Lacoste Leather Watch -",
+      "price": {
+        "current": {
+          "value": 64,
+          "text": "Kshs 264.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Tan",
+      "colourWayId": 16392236,
+      "brandName": "ASOS DESIGN",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "female",
+      "productCode": 1454292,
+      "productType": "Product",
+      "url": "asos-design/asos-design-wide-fit-backless-mule-loafer-in-tan-leather-with-snaffle/prd/12010338?clr=tan&colourWayId=16392236",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12010742,
+      "name": "Lacoste Leather -Watch",
+      "price": {
+        "current": {
+          "value": 64,
+          "text": "Kshs 264.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 16415049,
+      "brandName": "ASOS DESIGN",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "kids",
+      "productCode": 1454340,
+      "productType": "Product",
+      "url": "asos-design/asos-design-loafers-in-black-leather-with-gold-snaffle/prd/12010742?clr=black&colourWayId=16415049",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12011442,
+      "name": "Lacoste Leather Watch10",
+      "price": {
+        "current": {
+          "value": 51,
+          "text": "Kshs 251.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Gray",
+      "colourWayId": 16417826,
+      "brandName": "ASOS DESIGN",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "kids",
+      "productCode": 1454369,
+      "productType": "Product",
+      "url": "asos-design/asos-design-wide-fit-derby-shoes-in-gray-suede-with-piped-edging/prd/12011442?clr=gray&colourWayId=16417826",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12011459,
+      "name": "Lacoste Leather Watch9",
+      "price": {
+        "current": {
+          "value": 72,
+          "text": "Kshs 272.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Brown",
+      "colourWayId": 16419701,
+      "brandName": "ASOS DESIGN",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "kids",
+      "productCode": 1454378,
+      "productType": "Product",
+      "url": "asos-design/asos-design-monk-shoes-in-brown-leather-with-brogue-detail/prd/12011459?clr=brown&colourWayId=16419701",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12018593,
+      "name": "Lacoste Leather Watch8",
+      "price": {
+        "current": {
+          "value": 48,
+          "text": "Kshs 248.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Multi",
+      "colourWayId": 16429935,
+      "brandName": "ASOS DESIGN",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "kids",
+      "productCode": 1454762,
+      "productType": "Product",
+      "url": "asos-design/asos-design-stacked-heel-western-chelsea-boots-in-silver-glitter/prd/12018593?clr=multi&colourWayId=16429935",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12091885,
+      "name": "Lacoste Leather Watch7",
+      "price": {
+        "current": {
+          "value": 51,
+          "text": "Kshs 251.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Gray",
+      "colourWayId": 16417830,
+      "brandName": "ASOS DESIGN",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "kids",
+      "productCode": 1460330,
+      "productType": "Product",
+      "url": "asos-design/asos-design-lace-up-shoes-in-gray-suede-with-natural-sole/prd/12091885?clr=gray&colourWayId=16417830",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12686066,
+      "name": "Lacoste Leather Watch6",
+      "price": {
+        "current": {
+          "value": 115,
+          "text": "Kshs 2115.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 16427025,
+      "brandName": "Lacoste",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "kids",
+      "productCode": 1505713,
+      "productType": "Product",
+      "url": "lacoste/lacoste-partner-retro-runners-in-black/prd/12686066?clr=black&colourWayId=16427025",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12686095,
+      "name": "Lacoste Leather Watch40",
+      "price": {
+        "current": {
+          "value": 47,
+          "text": "Kshs 247.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 16424421,
+      "brandName": "Lacoste",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "kids",
+      "productCode": 1505679,
+      "productType": "Product",
+      "url": "lacoste/lacoste-croco-slides-with-large-logo-in-black/prd/12686095?clr=black&colourWayId=16424421",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12688882,
+      "name": "Lacoste Leather Watch4",
+      "price": {
+        "current": {
+          "value": 125,
+          "text": "Kshs 2125.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 16440193,
+      "brandName": "Ted Baker",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "kids",
+      "productCode": 1505906,
+      "productType": "Product",
+      "url": "ted-baker/ted-baker-esheron-canvas-sneakers-in-black/prd/12688882?clr=black&colourWayId=16440193",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12688915,
+      "name": "Lacoste Leather Watch3",
+      "price": {
+        "current": {
+          "value": 220,
+          "text": "Kshs 2220.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Brown",
+      "colourWayId": 16440186,
+      "brandName": "Ted Baker",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "kids",
+      "productCode": 1505913,
+      "productType": "Product",
+      "url": "ted-baker/ted-baker-daiser-loafer-in-brown-suede/prd/12688915?clr=brown&colourWayId=16440186",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12688919,
+      "name": "Lacoste Leather Watch2",
+      "price": {
+        "current": {
+          "value": 173,
+          "text": "Kshs 2173.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Gray",
+      "colourWayId": 16440199,
+      "brandName": "Ted Baker",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "kids",
+      "productCode": 1505910,
+      "productType": "Product",
+      "url": "ted-baker/ted-baker-lhennis-sneakers-in-gray/prd/12688919?clr=gray&colourWayId=16440199",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg",
+      "description": "The Havit AMOLED SmartWatch m9030 is the perfect blend of style and functionality. This smartwatch features a 1.39″ AMOLED screen that provides vivid and crystal-clear visuals. The screen has a high resolution of 454×454 which makes it easy to see everything on the display. The AMOLED technology ensures that the display remains bright and vibrant even in bright sunlight.",
+      "features": {
+        "BluetoothChip": "Realtek8762DW+AC6963",
+        "ScreenSize": "1.39″””” Amoled screen",
+        "ScreenResolution": "454x454",
+        "BatteryCapacity": "240mAh",
+        "StandBy": "30 days",
+        "Material": "Zinc+Genuine leather",
+        "Waterproof": "IP67"
+      }
+    },
+    {
+      "id": 12688922,
+      "name": "Lacoste Leather Watch1",
+      "price": {
+        "current": {
+          "value": 220,
+          "text": "Kshs 2220.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 16440184,
+      "brandName": "Ted Baker",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": "kids",
+      "productCode": 1505911,
+      "productType": "Product",
+      "url": "ted-baker/ted-baker-daiser-loafer-in-black-leather/prd/12688922?clr=black&colourWayId=16440184",
+      "imageUrl": "https://i.pinimg.com/236x/9e/b7/bd/9eb7bd28d21d202827d1a6133de1a384.jpg"
+    }
+  ]
+}
